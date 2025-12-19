@@ -1,0 +1,14 @@
+<Info | 8 non-empty values
+ bads: []
+ ch_names: FP1-F7, F7-T7, T7-P7, P7-O1, FP1-F3, F3-C3, C3-P3, P3-O1, ...
+ chs: 23 EEG
+ custom_ref_applied: False
+ highpass: 0.0 Hz
+ lowpass: 128.0 Hz
+ meas_date: 2076-11-06 13:43:04 UTC
+ nchan: 23
+ projs: []
+ sfreq: 256.0 Hz
+ subject_info: <subject_info | his_id: Surrogate>
+>
+Duration (seconds): 3600.00

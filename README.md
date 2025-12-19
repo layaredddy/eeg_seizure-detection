@@ -1,1 +1,1 @@
-# eeg_seizure-detection
+# eeg_seizure_detection

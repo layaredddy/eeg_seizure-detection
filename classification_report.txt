@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+ Non-seizure     0.0000    0.0000    0.0000    7198.0
+     Seizure     0.0000    0.0000    0.0000       1.0
+
+    accuracy                         0.0000    7199.0
+   macro avg     0.0000    0.0000    0.0000    7199.0
+weighted avg     0.0000    0.0000    0.0000    7199.0
